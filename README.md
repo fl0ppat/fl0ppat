@@ -4,7 +4,6 @@
 
 - 📚 Study in Yandex.Practikum
 - 🌱 Learning React
-- 😱 Scared of job interview
 - 👨‍💻 Looking for a job
 
 <h3>🔨 Tools</h3>
