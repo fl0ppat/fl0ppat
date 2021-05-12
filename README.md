@@ -3,7 +3,6 @@
 <h3>🕛 Now</h3>
 
 - 📚 Study in Yandex.Practikum
-- 🌱 Learning React
 - 👨‍💻 Looking for a job
 
 <h3>🔨 Tools</h3>
