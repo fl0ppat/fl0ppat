@@ -2,7 +2,7 @@
 
 <h3>🕛 Now</h3>
 
-- 📚 Study in Yandex.Practikum
+- 📚 Study in Yandex.Praktikum
 - 👨‍💻 Looking for a job
 
 <h3>🔨 Tools</h3>
